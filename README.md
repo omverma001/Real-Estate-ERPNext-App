@@ -7,4 +7,4 @@ The Real Estate Management app integrates seamlessly with ERPNext, offering a co
 - **Property Showcase Website:** A dedicated homepage displaying all available properties.
 - **Property Types:** Support for various property dealings - Rent, Lease, and Sale.
 - **Agent Management:** Efficiently manage and display information about real estate agents.
-
+<h1> I HAVE ADDED A NEW PACKAGE IN BACKEND </h1>
